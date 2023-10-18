@@ -1,2 +1,2 @@
 # chess_pm
-Study on pm and wm with the help of chess puzlles
+Study on pm and wm with the help of chess puzzles
